@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning computer science at Hebrew University
-- 📫 How to reach me: PHONE: 055-6660304 EMAIL: achikam.levy@mail.huji.ac.il
-  
-https://www.linkedin.com/in/achikam-levy
+- 📫 How to reach me: PHONE: 055-6660304
+                      EMAIL: achikam.levy@mail.huji.ac.il
+                      LINKDIN: https://www.linkedin.com/in/achikam-levy
 
 
 <!--
