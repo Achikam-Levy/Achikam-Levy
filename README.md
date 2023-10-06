@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning computer science at Hebrew University
 - 📫 How to reach me: EMAIL: achikam.levy@mail.huji.ac.il
 
-LINKDIN: https://www.linkedin.com/in/achikam-levy
+https://www.linkedin.com/in/achikam-levy
 <!--
 **Achikam-Levy/Achikam-Levy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
